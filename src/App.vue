@@ -1,30 +1,41 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+<nav class="container">
+  <div class="row">
+    <div class="col-12 d-flex justify-content-between border-bottom">
+    <navbar />
+    <div class="d-flex align-items-center">
+      <Search />
+    <Logining />
+    </div>
+
+    </div>
+  </div>
+</nav>
+      <router-view/>
+
 </template>
 
+<script>
+import navbar from './components/navbar/Navv.vue'
+import Search from './components/navbar/Searchh.vue'
+import Logining from './components/navbar/Loginn.vue'
+import { onBeforeMount } from 'vue'
+import { useStore } from 'vuex'
+
+export default {
+  name: 'App',
+  components: {
+    navbar, Search, Logining
+  },
+  setup () {
+    const store = useStore()
+    onBeforeMount(() => {
+      store.dispatch('fetchUser')
+    })
+  }
+}
+</script>
+
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
 
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
-}
 </style>

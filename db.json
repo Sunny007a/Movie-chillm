@@ -1,0 +1,150 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "doctor strange in the multiverse of madness",
+      "rating": "74%",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ5IuxfEt-WmUIrpJldszdRJFfTubSEeQVMVNuv63Z0PNfvbWV",
+      "time": "2h 6m",
+      "Category": " Action/Adventure",
+      "bgimg": "dr.jpg",
+      "trailer": "https://youtu.be/aWzlQ2N6qqg"
+    },
+    {
+      "id": 2,
+      "title": "Thor: Love and Thunder",
+      "rating": "80%",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxUtuaDLK0mK_zpYbBoddypIIcW12NCDz4HLUJ8rtbwZukek-T",
+      "time": "2h 6m",
+      "Category": "Action/Adventure",
+      "bgimg": "thor.jpg",
+      "trailer": "https://youtu.be/tgB1wUcmbbw"
+    },
+    {
+      "id": 3,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "rating": "85%",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFhIrDFAyr2nqmgXlKvpwJEYnI6e19O_FPV2Zx81SFkxKRMDfD",
+      "time": "2h 1m",
+      "Category": "Action/Adventure",
+      "bgimg": "spider-man.jpg",
+      "trailer": "https://youtu.be/TcMBFSGVi1c"
+    },
+    {
+      "id": 4,
+      "title": "The Batman",
+      "rating": "90%",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBkxgl2A2PhE_6tklFLT0bxn5NLhvhsnpXGhmXBt_zotrlVHmo",
+      "time": "2h 30m",
+      "Category": "Action/Adventure",
+      "bgimg": "batman.jpg",
+      "trailer": "https://youtu.be/mqqft2x_Aa4"
+    },
+    {
+      "id": 5,
+      "title": "Avengers: Endgame",
+      "rating": "94%",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9",
+      "time": "2h 6m",
+      "Category": "Sci-fi/Action",
+      "bgimg": "end.jpg",
+      "trailer": "https://youtu.be/TcMBFSGVi1c"
+    },
+    {
+      "id": 6,
+      "title": "Black Panther: Wakanda Forever",
+      "rating": "95%",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk_KJGPH711cELT7iokFcWUQFe0lJ71tilQcUh1OZFcGd0Mlis",
+      "time": "2h 6m",
+      "Category": "Adventure/Superhero",
+      "bgimg": "bp.jpg",
+      "trailer": "https://youtu.be/TcMBFSGVi1c"
+    },
+    {
+      "id": 7,
+      "title": "Spider-Man: No Way Home",
+      "rating": "93%",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdPsGJEBxBev7gKo_EMp0Pgk7Q7su_xTUxf3vo8dE9S_CiG2Z",
+      "time": "2h 28m",
+      "Category": "Action/Adventure",
+      "bgimg": "spider.jpg",
+      "trailer": "https://youtu.be/JfVOs4VSpmA"
+    },
+    {
+      "id": 8,
+      "title": "Avatar: The Way of Water",
+      "rating": "95%",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSpxAT5IxlBjs7lG4CT5Y46aNfYIN6HHc5LiVoCMEAQmimRA-T",
+      "time": "2h 14m",
+      "Category": "Sci-fi/Action",
+      "bgimg": "theavattor.jpg",
+      "trailer": "https://youtu.be/NZrX_ES93JA"
+    },
+    {
+      "id": 9,
+      "title": "raya and the last dragon",
+      "rating": "75%",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVemZhheEmP91eUguzFKtZ3nIrchSU1YG0TnQIH4tm7Of2l9h2",
+      "time": "1h 47m",
+      "Category": "Family/Adventure",
+      "bgimg": "raya-last-dragon.jpg",
+      "trailer": "https://youtu.be/1VIZ89FEjYI"
+    },
+    {
+      "id": 10,
+      "title": "Moon Knight",
+      "rating": "87%",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD9oofZigR9k8YOORO8Yf53EZ54emeUekyiTt5ohBQIYZM7M4q",
+      "time": "1 season",
+      "Category": "Action fiction",
+      "bgimg": "moonnn.jpg",
+      "trailer": "https://youtu.be/x7Krla_UxRg"
+    },
+    {
+      "id": 11,
+      "title": "spy x family",
+      "rating": "87%",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Spy_x_Family_key_visual.jpg/220px-Spy_x_Family_key_visual.jpg",
+      "time": "Season-1",
+      "Category": "Anime",
+      "bgimg": "spy.jpg",
+      "trailer": "https://youtu.be/ZWXuGxQ5G_0"
+    }
+  ],
+  "register": [
+    {
+      "firstName": "dsc",
+      "lastName": "scds",
+      "email": "csdc",
+      "password": "sdcs",
+      "confirmPassword": "csdc",
+      "id": 1
+    },
+    {
+      "firstName": "dsadcs",
+      "lastName": "asdcs",
+      "email": "sdcds",
+      "password": "csdcs",
+      "confirmPassword": "cscs",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "id": 1
+    },
+    {
+      "email": "xsac",
+      "password": "ascsac",
+      "id": 2
+    }
+  ]
+}
